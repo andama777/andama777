@@ -1,3 +1,3 @@
-- 静岡大学情報学部情報科学科の神田です!
+- 静岡大学情報学部情報科学科の神田です! 
 -　I’m interested in verilogHDL
 -  I’m currently learning Rust, verilogHDL, Java, Python

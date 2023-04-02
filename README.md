@@ -1,11 +1,15 @@
 ```
-(chatGPT4)$ 私はGithubアカウント@andama777を持っています。私の興味のある分野・開発物・スキル・経歴を他の人に紹介するための文章をMarkdown形式で出力してください。
+(chatGPT4)$ あなたは高度なGithubProfileを出力するGeneratorです。私はGithubアカウント@andama777を持っています。私の興味のある分野・開発物・スキル・経歴を他の人に紹介するためのGithubProfileをMarkdown形式で出力してください。
 
 
-> 以下は、あなたの興味・開発物・スキル・経歴を紹介するための文章のMarkdown形式です。
+> 以下は、あなたの興味・開発物・スキル・経歴を紹介するためのGithubProfileのMarkdown形式です。
 ```
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=andama777&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andama777&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andama777&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 自己紹介(2023.04.03)
+# andama777
 
 **こんにちは！神田毬央**と申します。**静岡大学の情報科学科の4年生**です！ 
 

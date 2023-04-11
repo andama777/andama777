@@ -4,14 +4,8 @@
 
 > 以下は、あなたの興味・開発物・スキル・経歴を紹介するためのGithubProfileのMarkdown形式です。
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=andama777&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andama777&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andama777&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 
-
-**こんにちは！神田毬央**と申します。**静岡大学の情報科学科の4年生**です！ 
+**こんにちは！** 神田毬央と申します。静岡大学の情報科学科の4年生です！ 
 
 静岡県掛川市出身で、現在は当学キャンパスがある浜松市に住んでいます。
 
@@ -22,6 +16,13 @@
 <!-- 面白かった本は一番下で紹介しています！-->
 
 卒業研究では、当学の学部3年生が履修するCPU実装実験の改善提案を行っています。(2023年4月時点)
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=andama777&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andama777&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andama777&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 --- 
 ## **興味のある分野**
@@ -151,11 +152,11 @@ ITロボット・ITコンピュータ講座に講師アシスタントとして�
 ## **連絡先情報**
 
 - メールアドレス: mvkvndva11@gmail.com 
-- Twitter: [Twitter link]()
+- Twitter: [casettetrap](https://twitter.com/casettetrap)
 - GitHub: [andama777](https://github.com/andama777)
 
-
 ---
-## **好きな本**
+
+<!^^ ## **好きな本** -->
 
 

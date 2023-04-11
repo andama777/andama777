@@ -1,9 +1,9 @@
-```
-$ あなたはGithubProfileを出力するジェネレータです。私はGithubアカウント@andama777を持っています。私の興味のある分野・開発物・スキル・経歴を他の人に紹介するためのGithubProfileをMarkdown形式で出力してください。
+
+私はGithubアカウント@andama777を持っています。私の興味のある分野・開発物・スキル・経歴を他の人に紹介するためのGithubProfileをMarkdown形式で出力してください。
 
 
 > 以下は、あなたの興味・開発物・スキル・経歴を紹介するためのGithubProfileのMarkdown形式です。
-```
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=andama777&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andama777&theme=radical&hide_border=false)<br/>

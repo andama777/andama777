@@ -14,11 +14,11 @@
 --- 
 ## **個人開発中**
 - FPGA
-  - MIPS32 R3000 CPUの実装 (2023.3 ~)
+  - RISC-V RV32IMの実装(2023.3 ~)
   - 自作アーキテクチャLOL CPUの実装 (構想中)
 - ソフトウェア
   - [javaccTest](https://github.com/andama777/javacctest)(2022~)
-    - javaccを用いたSEP-3(当学オリジナルアーキテクチャ)のminiCコンパイラ (開発中)
+    - RV32IMをターゲットとしたminiCコンパイラ(開発中) (2023.6 ~)
   - [separeteMusic](https://github.com/andama777/separeteMusic)(2022)
     - 音源分離ライブラリのdemucsを用いて楽曲から音声を抜き出すCLIソフト (開発終了)
   - AudioBrando(2023.1~ 開発中止)
@@ -37,7 +37,7 @@
 - エディタ
   - メイン: VScode
     - WSL Ubuntu22.04
-  - たまに使用する: Eclipse(java)
+  - サブ: VIsual Studio, Eclipse(java)
   - 使用したことがある: vim
 - ツール
   - evernote

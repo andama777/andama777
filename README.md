@@ -1,7 +1,6 @@
 ## **連絡先**
 
 - メールアドレス: mvkvndva11@gmail.com 
-- Twitter: [casettetrap](https://twitter.com/casettetrap)
 - GitHub: [andama777](https://github.com/andama777)
 
 ---
